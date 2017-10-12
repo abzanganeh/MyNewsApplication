@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyNewsApplication</string>
+    <string name="choose_source_title">Choose a news source you like:</string>
+</resources>
